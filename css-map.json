@@ -1,0 +1,105 @@
+{
+  "media":
+  {
+    "xs" : "",
+    "sm" : "",
+    "md" : "",
+    "lg" : "",
+    "xl" : ""
+  },
+  "grid":
+  {
+    "1"  : "",
+    "2"  : "",
+    "3"  : "",
+    "4"  : "",
+    "5"  : "",
+    "6"  : "",
+    "7"  : "",
+    "8"  : "",
+    "9"  : "",
+    "10" : "",
+    "11" : "",
+    "12" : ""
+},
+  "colors":
+  {
+    "xs" : "",
+    "sm" : "",
+    "md" : "",
+    "lg" : "",
+    "xl" : ""
+  },
+  "general":
+  {
+      "container-fluid"                 : "",
+      "container"                       : "",
+      "embed-responsive"                : "",
+      "embed-responsive-item"           : "",
+      "embed-responsive-21by9"          : "",
+      "embed-responsive-16by9"          : "",
+      "embed-responsive-4by3"           : "",
+      "embed-responsive-1by1"           : "",
+      "text-hide"                       : "",
+      "sr-only"                         : "",
+      "sr-only-focusable"               : "",
+      "img-fluid"                       : "",
+      "img-thumbnail"                   : "",
+      "table"                           : "",
+      "table-sm"                        : "",
+      "table-responsive"                : "",
+      "table-responsive-{regex_string}" : "",
+      "figure"                          : "",
+      "figure-img"                      : "",
+      "figure-caption"                  : "",
+      "fade"                            : "",
+      "show"                            : "",
+      "disabled"                        : "",
+      "collapsing"                      : "",
+      "close"                           : "",
+      "jumbotron"                       : "",
+      "jumbotron-fluid"                 : ""    
+    },
+    "convertGrid":
+    {},
+    "convertMediaObject":
+    {},
+    "convertBorders":
+    {},
+    "convertColors":
+    {},
+    "convertDisplay":
+    {},
+    "convertFlexElements":
+    {},
+    "convertSizing":
+    {},
+    "convertSpacing":
+    {},
+    "convertText":
+    {},
+    "convertCards":
+    {},
+    
+    "convertBadges":
+    {},
+    "convertBreadcrumb":
+    {},
+    "convertButtons":
+    {},
+    "convertDropdowns":
+    {},
+    "convertForms":
+    {},
+    "convertInputGroups":
+    {},
+    "convertListGroups":
+    {},
+    "convertModals":
+    {},
+    "convertNavs":
+    {},
+    "convertPagination":
+    {}
+    
+}
